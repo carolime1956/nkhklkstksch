@@ -13,7 +13,4 @@ Diseño productos centrados en la construcción de coomunidades.
 - Implementar Latex y Jupiter Notebooks, así como trasladar todo el contenido ya realizado a este repositorio.
 
 # Remodelación de casa en zona 7.
-- Considerar el uso de páneles solares, construyendo el sistema sin ayuda "profesional".
-
-# Terreno en San Lucas.
-- El terreno está siendo modificado, ¿qué puede plantearse a futuro para explotar la tierra y obtener recursos?
+- Considerar el uso de páneles solares para obtener una estación de trabajo independiente.
