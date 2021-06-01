@@ -1,4 +1,4 @@
 `nkhklkstksch`
 
 ## Personal portfolio.
-- Add Dukhang's generalities.
+- Dukhang, buddhist meditation centre at lake Atitlan.
